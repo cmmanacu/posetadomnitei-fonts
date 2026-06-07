@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Funnel Display Light';
+    src: url('FunnelDisplayLight-SemiBold.woff2') format('woff2'),
+        url('FunnelDisplayLight-SemiBold.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Funnel Display Light';
+    src: url('FunnelDisplayLight-SemiBold_1.woff2') format('woff2'),
+        url('FunnelDisplayLight-SemiBold_1.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
