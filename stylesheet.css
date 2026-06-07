@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'Funnel Display Light';
+    src: url('FunnelDisplayLight-SemiBold.woff2') format('woff2'),
+        url('FunnelDisplayLight-SemiBold.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Funnel Display Light';
+    src: url('FunnelDisplayLight-SemiBold_1.woff2') format('woff2'),
+        url('FunnelDisplayLight-SemiBold_1.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plus Jakarta Sans';
+    src: url('PlusJakartaSans-Medium.woff2') format('woff2'),
+        url('PlusJakartaSans-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Funnel Sans';
+    src: url('FunnelSansLight-Regular.woff2') format('woff2'),
+        url('FunnelSansLight-Regular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Funnel Sans';
+    src: url('FunnelSansLight-Bold.woff2') format('woff2'),
+        url('FunnelSansLight-Bold.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Funnel Sans Light';
+    src: url('FunnelSansLight-SemiBold.woff2') format('woff2'),
+        url('FunnelSansLight-SemiBold.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Funnel Sans Light';
+    src: url('FunnelSansLight-Medium.woff2') format('woff2'),
+        url('FunnelSansLight-Medium.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
